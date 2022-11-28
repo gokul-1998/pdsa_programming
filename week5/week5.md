@@ -1,0 +1,1 @@
+- GRPA1 is direct krushkal
